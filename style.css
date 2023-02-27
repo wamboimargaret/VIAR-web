@@ -36,7 +36,11 @@ h3{
     display: inline-block;
     list-style-type: none;
     padding: 9px 8px;
+    text-decoration: none;
     
+}
+#navi ul li a{
+    text-decoration: none;
 
 }
 .flexbox2{
